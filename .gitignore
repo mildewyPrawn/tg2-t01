@@ -7,6 +7,9 @@
 ## Archivos generados por minted
 *.listing
 
+# Emacs all files
+*~
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
